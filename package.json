@@ -29,7 +29,7 @@
   "homepage": "https://github.com/spacecowboy/release-please-action#readme",
   "dependencies": {
     "@actions/core": "^1.10.0",
-    "release-please": "github:spacecowboy/release-please"
+    "release-please": "github:spacecowboy/release-please#v16.15.0-go.1"
   },
   "devDependencies": {
     "@types/mocha": "^9.0.0",
